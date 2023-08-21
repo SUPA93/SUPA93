@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SUPA93
 - 👀 I’m interested in vidéos games, vitrtual content, geek side ;) 
 - 🌱 I’m currently learning python
+- I'am now learning front/back end. 
 - 💞️ I’m looking to collaborate on something special ;)
 - 📫 How to reach me ---> Here
 
