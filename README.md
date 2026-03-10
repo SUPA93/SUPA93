@@ -32,9 +32,9 @@ I enjoy building **web tools, automation systems and digital projects** using mo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUPA93&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SUPA93&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUPA93&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUPA93&layout=compact&theme=tokyonight"/>
 
 </p>
 
