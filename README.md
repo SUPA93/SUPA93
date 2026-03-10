@@ -12,7 +12,7 @@ I enjoy building **web tools, automation systems and digital projects** using mo
 
 - 🎮 Gamer & tech enthusiast
 - 🤖 Interested in **AI, automation and web development**
-- 🌱 Currently learning **Python, PHP, JavaScript and React**
+- 🌱 Never ending learning **Python, PHP, JavaScript and React**
 - 🛠 Building tools, experiments and web apps
 - 🤝 Open to collaboration on interesting projects
 
